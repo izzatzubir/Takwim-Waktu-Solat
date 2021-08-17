@@ -29,7 +29,7 @@ Berikut adalah kaedah yang digunakan bagi penentuan waktu solat
 
 ### Waktu asar
 1. Terdapat 2 sudut yang perlu diambil kira iaitu sudut zenith matahari ketika transit, dan sudut ketika matahari menghasilkan bayang-bayang sesuatu objek yang sama panjang dengan panjang objek tersebut ditambah dengan bayang-bayang ketika transit. 
-2. Sila rujuk pada gambar 'Terbitan altitud Matahari ketika Asar'. 
+2. Sila rujuk pada gambar 'Terbitan waktu solat Asar'. 
 3. Penghasilan waktu asar menggunakan API find_discrete.
 4. Ketepatan waktu asar mempunyai ketepatan sekitar 2.4 saat
 5. Kod 'function' waktu asar dibuat di luar 'function' waktu solat lain kerana kaedah yang lebih kompleks
